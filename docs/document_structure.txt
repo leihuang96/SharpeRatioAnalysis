@@ -1,0 +1,35 @@
+.
+├── README.MD
+├── config
+├── datasets
+│   ├── processed
+│   │   └── annual_sharpe_ratio.png
+│   └── raw
+│       ├── AAPL.csv
+│       ├── AMZN.csv
+│       ├── BABA.csv
+│       ├── CRM.csv
+│       ├── FB.csv
+│       ├── GOOG.csv
+│       ├── INTC.csv
+│       ├── MSFT.csv
+│       ├── NVDA.csv
+│       ├── TSLA.csv
+│       ├── benchmark_data.csv
+│       ├── sp500.csv
+│       └── stock_data.csv
+├── docs
+│   └── document_structure.txt
+├── misc
+├── notebooks
+│   └── datacamp.ipynb
+├── requirements.txt
+├── setup.py
+├── src
+│   ├── __pycache__
+│   │   └── data_processing.cpython-311.pyc
+│   ├── data_processing.py
+│   └── main.py
+└── tests
+
+11 directories, 22 files
